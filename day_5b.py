@@ -1,3 +1,6 @@
+# This code is a reproduction of another user from reddit
+# where several solutions are posted.  This is not my workself.
+
 with open('data/day5input.txt') as file:
     line = file.read().strip()
 
